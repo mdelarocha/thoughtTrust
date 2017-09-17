@@ -11,6 +11,10 @@ h6 {
     font-weight: 700;
 }
 
+u1 {
+    list-style-type: none;
+}
+
 .topnav {
     background-color: #333;
     overflow: hidden;
@@ -49,12 +53,13 @@ h6 {
     padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;
-    color: white;
+    color: whitesmoke;
     background: url(write.jpg) no-repeat center center;
     background-size: cover;
+    background-attachment: fixed;
 }
 
-.what-new {
+.about {
     background-size: cover;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -72,4 +77,5 @@ h6 {
     color: white;
     background: url(project.jpg) no-repeat center center;
     background-size: cover;
+    background-attachment: fixed;
 }
